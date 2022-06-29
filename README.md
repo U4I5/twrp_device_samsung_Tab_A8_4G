@@ -1,1 +1,1 @@
-# Twrp_device_samsung_Tab_A8_4G
+# TWRP device tree for Samsung Tab A8 SM-X205
