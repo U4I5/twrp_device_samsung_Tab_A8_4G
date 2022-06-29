@@ -1,0 +1,1 @@
+# twrp_device_samsung_Tab_A8_4G
